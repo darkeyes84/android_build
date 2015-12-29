@@ -67,7 +67,6 @@ PRODUCT_PACKAGES += \
     logwrapper \
     mkshrc \
     reboot \
-    recovery \
     service \
     servicemanager \
     sh \
