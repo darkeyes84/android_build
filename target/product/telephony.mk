@@ -21,8 +21,8 @@ PRODUCT_PACKAGES := \
     CarrierConfig \
     Dialer \
     CallLogBackup \
-    CellBroadcastReceiver \
     EmergencyInfo \
+    InCallUI \
     rild
 
 PRODUCT_COPY_FILES := \
