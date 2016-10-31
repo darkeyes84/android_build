@@ -19,10 +19,8 @@
 
 PRODUCT_PACKAGES := \
     CarrierConfig \
-    Dialer \
     CallLogBackup \
     EmergencyInfo \
-    InCallUI \
     rild
 
 PRODUCT_COPY_FILES := \
